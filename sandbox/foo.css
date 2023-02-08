@@ -1,0 +1,11 @@
+.arc {
+    fill: #fff;
+    stroke-width: 3px;
+    stroke: purple;
+    cursor: pointer;
+    transition: fill, stroke ease .2s;
+}
+
+.arc,textPath {
+    transition: fill, stroke ease .2s;
+}
